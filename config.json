@@ -4,7 +4,7 @@
   "name": "Viorel STAICU",
   "firstName": "Viorel",
   "lastName": "STAICU",
-  "role": "Senior Internal Auditorr",
+  "role": "Senior Internal Auditor",
   "organization": "Registrul Auto Roman R.A.",
   "location": "București, România",
   "intro": " ",
@@ -18,10 +18,10 @@
   "website": "",
   "cv": "",
   "theme": {"accent": "#136b61", "background": "#f2f0e9"},
-  "skills": ["Competența principală", "Analiză și strategie", "Management de proiect"],
+  "skills": [" ", " ", " "],
   "projects": [
-    {"title": "Primul proiect", "description": "Descrie pe scurt problema, contribuția ta și rezultatul. Acesta este un exemplu de completat.", "url": ""},
-    {"title": "Al doilea proiect", "description": "Poți adăuga oricâte proiecte sau poți șterge întreaga listă.", "url": ""}
+    {"title": " ", "description": " ", "url": ""},
+    {"title": " ", "description": " ", "url": ""}
   ],
   "social": [],
   "footer": "Să construim ceva util împreună.",
