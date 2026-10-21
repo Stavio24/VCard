@@ -1,0 +1,29 @@
+{
+  "language": "ro",
+  "brand": "Carte de vizită digitală",
+  "name": "Viorel STAICU",
+  "firstName": "Viorel",
+  "lastName": "STAICU",
+  "role": "Senior Internal Auditorr",
+  "organization": "Registrul Auto Roman R.A.",
+  "location": "București, România",
+  "intro": " ",
+  "about": " ",
+  "photo": "https://i.postimg.cc/qRjyhJnq/foto-2SV.jpg",
+  "photoAlt": " ",
+  "availability": "Deschis pentru colaborări",
+  "email": "staicuvio@gmail.com",
+  "phone": "0734463516",
+  "whatsapp": "+40734463516",
+  "website": "",
+  "cv": "",
+  "theme": {"accent": "#136b61", "background": "#f2f0e9"},
+  "skills": ["Competența principală", "Analiză și strategie", "Management de proiect"],
+  "projects": [
+    {"title": "Primul proiect", "description": "Descrie pe scurt problema, contribuția ta și rezultatul. Acesta este un exemplu de completat.", "url": ""},
+    {"title": "Al doilea proiect", "description": "Poți adăuga oricâte proiecte sau poți șterge întreaga listă.", "url": ""}
+  ],
+  "social": [],
+  "footer": "Să construim ceva util împreună.",
+  "labels": {"about": "Despre mine", "skills": "Competențe", "projects": "Proiecte selectate", "contact": "Hai să discutăm", "saveContact": "Salvează contactul", "email": "Scrie-mi", "call": "Sună", "cv": "Deschide CV-ul", "project": "Vezi proiectul ↗", "share": "Distribuie pagina", "copied": "Link copiat", "shareError": "Copiază adresa paginii din bara browserului."}
+}
